@@ -5,6 +5,15 @@
   font-family: sans-serif;
 }
 
+p {
+  color: antiquewhite;
+}
+
+h2,
+h3 {
+  color: salmon;
+}
+
 h1 {
   color: #000;
 }
