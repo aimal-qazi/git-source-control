@@ -14,6 +14,10 @@ h3 {
   color: salmon;
 }
 
+span {
+  font-weight: bolder;
+}
+
 h1 {
   color: #000;
 }
